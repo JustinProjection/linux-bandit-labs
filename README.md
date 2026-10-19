@@ -17,3 +17,4 @@ Welcome to my OverTheWire Bandit documentation repository! This repository conta
 * [Level 0 → Level 1](./levels/level0-to-5.md#level-0--level-1)
 * [Level 1 → Level 2](./levels/level0-to-5.md#level-1--level-2)
 * [Level 2 → Level 3](./levels/level0-to-5.md#level-2--level-3)
+* [Level 13 → Level 15](./levels/level13-to-15.md#level-2--level-3)
