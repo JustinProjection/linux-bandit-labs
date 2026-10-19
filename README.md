@@ -1,21 +1,20 @@
 # OverTheWire Bandit Walkthroughs & Notes
 
-Welcome to my OverTheWire Bandit documentation repository! This repository contains my step-by-step investigation notes, Linux command usages, and key takeaways as I progress through the Bandit wargame.
+Welcome to my OverTheWire Bandit documentation repository! This repository contains my step-by-step investigation notes, Linux command usages, and key takeaways as I progress through the Bandit wargame (Levels 13 to 33).
 
 🎯 Objectives
-* Master Linux CLI navigation, file manipulation, and user permissions.
-* Practice core Linux security concepts, text processing (`grep`, `awk`, `uniq`), and shell operations.
+- Master Linux CLI navigation, file manipulation, and advanced user permissions.
+- Practice core cybersecurity concepts: SSH key authentication, networking utilities (`nc`, `openssl`), file analysis, and privilege escalation.
 
 📌 Progress Tracker
-- [x] **Levels 0 → 5:** Basic CLI Navigation & File Handling
-- [ ] **Levels 6 → 10:** File Searching & Text Processing (`find`, `grep`, `strings`)
-- [ ] **Levels 11 → 15:** Base64 Decoding & Networking Basics (`nc`, `openssl`)
+- [x] **Levels 13 → 15:** SSH Private Keys & Networking Basics (`ssh -i`, `nc`)
+- [ ] **Levels 16 → 20:** Port Scanning, SSL/TLS Connections, & Data Extraction
+- [ ] **Levels 17 → 25:** Cron Jobs, File Compression, & SUID/Privilege Escalation
+- [ ] **Levels 26 → 33:** Git Repositories, Binary Analysis, & Advanced Exploits
 
 ---
 
 ## 📁 Level Notes
-* [Level 0 → Level 1](./levels/level0-to-5.md#level-0--level-1)
-* [Level 1 → Level 2](./levels/level0-to-5.md#level-1--level-2)
-* [Level 2 → Level 3](./levels/level0-to-5.md#level-2--level-3)
-* [Level 13 → Level 15](./levels/level13-to-14.md#level-2--level-3)
-* [Level 14 → Level 15](./levels/level14-to-15.md#level-2--level-3)
+- [Level 13 → Level 14](./levels/level13-to-14.md)
+- [Level 14 → Level 15](./levels/level14-to-15.md)
+<!-- Idagdag mo na lang ang mga susunod na level dito habang umaakyat ka patungong level 33 -->
