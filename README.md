@@ -17,4 +17,5 @@ Welcome to my OverTheWire Bandit documentation repository! This repository conta
 ## 📁 Level Notes
 - [Level 13 → Level 14](./levels/level13-to-14.md)
 - [Level 14 → Level 15](./levels/level14-to-15.md)
+- [Level 15 → Level 16](./levels/level15-to-16.md)
 <!-- Idagdag mo na lang ang mga susunod na level dito habang umaakyat ka patungong level 33 -->
